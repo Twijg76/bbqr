@@ -9,10 +9,10 @@ QR-codes (Quick Responce Code)are used more and more, for information, for menu'
 1. Why gzip? *It is a standard on linux and the web and not a bad compression algoritm.*
 2. Why tar? *For a single file, not using tar saves space but the benefit is that it keeps file extensions which help determining the type and that it can contain multiple files like an index.html* and *a style.css.*
 3. Why QR-codes? *Because they are the best know and most used way of having scannable codes for the general public.*
-4. Why can't I use something else than tar.gz? *Maybe, in the future, we should have a few bytes discribing what is encoded in the rest of the QR-code os everyone can use their favourite file format.*
+4. Why can't I use something else than tar.gz? *Maybe, in the future, we should have a few bytes discribing what is encoded in the rest of the QR-code so everyone can use their favourite file format.*
 5. Why did you make this? *Because I couldn't find anyone else who has done it and I want it.*
-6. Why is there no licence? *I'm still thinking about which one to choice, maybe the LGPL is best? I don't know.*
-7. Why the name BBQR? *I first used bqr, better qr but then saw the opportunity of putting bbq in there and couldn't resist.*
+6. Why is there no licence? *I'm still thinking about which one to choose, maybe the LGPL is best? I don't know yet.*
+7. Why the name BBQR? *I first used bqr, better qr, but then saw the opportunity of putting bbq in there and couldn't resist.*
 
 *secret non-why questions...*
 
