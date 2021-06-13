@@ -1,2 +1,2 @@
-# bbqr
+# BBQR
 BBQR is a better QR
