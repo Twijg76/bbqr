@@ -22,6 +22,6 @@ QR-codes (Quick Responce Code)are used more and more, for information, for menu'
 
 
 ## Tested
-I succesfully used this to decode:
+I succesfully used this to encode and decode:
 * The complete Pizza Hut Menu including all sizes and variants
 * A simple html webpage with css
