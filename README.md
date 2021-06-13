@@ -25,3 +25,4 @@ QR-codes (Quick Responce Code)are used more and more, for information, for menu'
 I succesfully used this to encode and decode:
 * The complete Pizza Hut Menu including all sizes and variants
 * A simple html webpage with css
+* This index.md file
